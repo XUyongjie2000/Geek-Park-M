@@ -1,6 +1,9 @@
-const Login=()=> {
+import { Button } from "antd-mobile";
+const Login = () => {
   return (
-    <div>登录页面</div>
-  )
-}
-export default Login
+    <div>
+      <Button color="primary">button</Button>
+    </div>
+  );
+};
+export default Login;
