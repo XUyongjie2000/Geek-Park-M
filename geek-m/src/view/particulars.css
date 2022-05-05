@@ -1,0 +1,32 @@
+.particulars-container {
+    padding: 1rem;
+    overflow: scroll;
+    box-sizing: border-box;
+}
+
+.particulars-info {
+    overflow: hidden;
+    width: 100%;
+    margin-top: 5rem;
+}
+
+.particulars-info img {
+    float: left;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.particulars-info p {
+    float: left;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.particulars-info p {
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+}
+
+.particulars-content {
+    width: 100%;
+}

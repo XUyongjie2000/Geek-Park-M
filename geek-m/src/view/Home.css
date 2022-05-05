@@ -1,0 +1,32 @@
+.adm-tabs-tab-active {
+    color: #000;
+}
+
+.adm-tabs-tab-wrapper {
+    color: #999
+}
+
+.adm-tabs-tab-line {
+    background-color: #fc6627;
+}
+
+.adm-tabs {
+    width: 85%;
+    float: left;
+}
+
+.title-icon {
+    font-size: 1.3rem;
+    margin-top: 0.5rem;
+    color: #999;
+    float: left;
+    width: 7%;
+    text-align: center;
+}
+
+
+
+.content-title {
+    padding: 0.4rem;
+    box-sizing: border-box;
+}
